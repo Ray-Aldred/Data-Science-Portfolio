@@ -19,3 +19,9 @@ For this analysis, data has been procured from the Nobel Foundation's [repositor
 ## 2. [Harold Potter Wordcloudes](https://github.com/Ray-Aldred/Kaggle-Data-Science-Projects/blob/main/harold-potter-wordclouds.ipynb)
 
 Word Clouds represent an elegant visualization methodology employed primarily for the display of prominent tags or keywords derived from a given textual corpus or website. These keywords typically encapsulate the essence of the subject matter or thematic context within the text or site in question. In this analytical notebook, I shall endeavor to generate a word cloud encompassing all seven volumes of the esteemed literary series, Harry Potter.
+
+## 3. [Predicting Credit Card Approvals](https://github.com/Ray-Aldred/Predicting-Credit-Card-Approvals/blob/main/notebook.ipynb)
+
+Commercial banking institutions are inundated with a plethora of credit card applications, a substantial portion of which are ultimately rejected due to various factors, such as elevated loan balances, inadequate income levels, or an excessive number of inquiries on an individual's credit report, to name but a few. The manual analysis of these applications proves to be a laborious, error-prone, and time-consuming endeavor, with time being an invaluable commodity. Fortuitously, the advent of machine learning has enabled the automation of this process, a strategy now ubiquitously employed by contemporary commercial banks. In this project, you shall undertake the construction of an automated credit card approval predictor, harnessing the power of machine learning techniques, thereby emulating the methodologies employed by real-world banking institutions.
+
+For this endeavor, the dataset utilized shall be the [Credit Card Approval dataset](http://archive.ics.uci.edu/ml/datasets/credit+approval), sourced from the esteemed UCI Machine Learning Repository.
