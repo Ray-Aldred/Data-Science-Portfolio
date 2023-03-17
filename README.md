@@ -7,3 +7,5 @@ In this portfolio, you will find a variety of projects that showcase my ability 
 I have used various Python libraries and frameworks, including NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and TensorFlow. I have also worked with a variety of datasets, and there is more coming up as I learn!
 
 I hope that my Data Science Portfolio will not only demonstrate my technical skills but also highlight my ability to think critically, problem-solve, and communicate effectively using Python. I am excited to share my work with you and look forward to any feedback or suggestions you may have.
+
+## [A Visual History of the Nobel Prize Winners](https://github.com/Ray-Aldred/A-Visual-History-of-Nobel-Prize-Winners/blob/main/notebook.ipynb) -
