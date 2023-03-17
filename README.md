@@ -15,3 +15,7 @@ The Nobel Prize, an esteemed accolade recognized globally, serves to acknowledge
 To scrutinize the nature of this prestigious honor, one may pose several inquiries: What attributes are shared amongst laureates? Which nation boasts the highest frequency of recipients? And have any individuals been distinguished with multiple Nobel Prizes? The onus of answering these questions falls upon the inquisitive mind.
 
 For this analysis, data has been procured from the Nobel Foundation's [repository](https://www.kaggle.com/datasets/nobelfoundation/nobel-laureates) on the Kaggle platform.
+
+## 2. [Harold Potter Wordcloudes](https://github.com/Ray-Aldred/Kaggle-Data-Science-Projects/blob/main/harold-potter-wordclouds.ipynb)
+
+Word Clouds represent an elegant visualization methodology employed primarily for the display of prominent tags or keywords derived from a given textual corpus or website. These keywords typically encapsulate the essence of the subject matter or thematic context within the text or site in question. In this analytical notebook, I shall endeavor to generate a word cloud encompassing all seven volumes of the esteemed literary series, Harry Potter.
