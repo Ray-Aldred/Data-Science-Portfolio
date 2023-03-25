@@ -8,7 +8,7 @@ I have used various Python libraries and frameworks, including NumPy, Pandas, Ma
 
 I hope that my Data Science Portfolio will not only demonstrate my technical skills but also highlight my ability to think critically, problem-solve, and communicate effectively using Python. I am excited to share my work with you and look forward to any feedback or suggestions you may have.
 
-## 1. [A Visual History of the Nobel Prize Winners](https://github.com/Ray-Aldred/A-Visual-History-of-Nobel-Prize-Winners/blob/main/notebook.ipynb)
+## 1. [A Visual History of the Nobel Prize Winners](https://github.com/Ray-Aldred/A-Visual-History-of-Nobel-Prize-Winners/blob/main/A-Visual-History-of-Nobel-Prize-Winners_notebook.ipynb)
 
 The Nobel Prize, an esteemed accolade recognized globally, serves to acknowledge the accomplishments of preeminent scholars and scientists in the fields of chemistry, literature, physics, medicine, economics, and peace. Since its inception in 1901, the award has evolved from its initial Eurocentric and male-dominated disposition to a more equitable and unbiased recognition of excellence.
 
@@ -16,11 +16,8 @@ To scrutinize the nature of this prestigious honor, one may pose several inquiri
 
 For this analysis, data has been procured from the Nobel Foundation's [repository](https://www.kaggle.com/datasets/nobelfoundation/nobel-laureates) on the Kaggle platform.
 
-## 2. [Harold Potter Wordcloudes](https://github.com/Ray-Aldred/Kaggle-Data-Science-Projects/blob/main/harold-potter-wordclouds.ipynb)
 
-Word Clouds represent an elegant visualization methodology employed primarily for the display of prominent tags or keywords derived from a given textual corpus or website. These keywords typically encapsulate the essence of the subject matter or thematic context within the text or site in question. In this analytical notebook, I shall endeavor to generate a word cloud encompassing all seven volumes of the esteemed literary series, Harry Potter.
-
-## 3. [Predicting Credit Card Approvals](https://github.com/Ray-Aldred/Predicting-Credit-Card-Approvals/blob/main/notebook.ipynb)
+## 2. [Predicting Credit Card Approvals](https://github.com/Ray-Aldred/Predicting-Credit-Card-Approvals/blob/main/Predicting-Credit-Card-Approvals_notebook.ipynb)
 
 Commercial banking institutions are inundated with a plethora of credit card applications, a substantial portion of which are ultimately rejected due to various factors, such as elevated loan balances, inadequate income levels, or an excessive number of inquiries on an individual's credit report, to name but a few. The manual analysis of these applications proves to be a laborious, error-prone, and time-consuming endeavor, with time being an invaluable commodity. Fortuitously, the advent of machine learning has enabled the automation of this process, a strategy now ubiquitously employed by contemporary commercial banks. In this project, I have undertaken the construction of an automated credit card approval predictor, harnessing the power of machine learning techniques, which thereby emulates the methodologies employed by real-world banking institutions.
 
