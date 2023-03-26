@@ -23,6 +23,6 @@ Commercial banking institutions are inundated with a plethora of credit card app
 
 For this endeavor, the dataset utilized shall be the [Credit Card Approval dataset](http://archive.ics.uci.edu/ml/datasets/credit+approval), sourced from the esteemed UCI Machine Learning Repository.
 
-##3. [Dr. Semmelweis and the Unveiling of Handwashing Significance](https://github.com/Ray-Aldred/Dr.-Semmelweis-and-the-Unveiling-of-Handwashing-Significance/blob/main/Dr.-Semmelweis-and-the-Unveiling-of-Handwashing-Significance_notebook.ipynb)
+## 3. [Dr. Semmelweis and the Unveiling of Handwashing Significance](https://github.com/Ray-Aldred/Dr.-Semmelweis-and-the-Unveiling-of-Handwashing-Significance/blob/main/Dr.-Semmelweis-and-the-Unveiling-of-Handwashing-Significance_notebook.ipynb)
 
 In 1847, the distinguished Hungarian physician, Ignaz Semmelweis, made a pivotal discovery that would revolutionize medical practices: hand hygiene. He discerned that contaminated hands posed a significant threat to patients suffering from childbed fever, and through the implementation of rigorous handwashing protocols at his hospital, he was able to safeguard the lives of numerous individuals. His pioneering work stands as a testament to the crucial role that conscientious hygiene practices play in the delivery of effective healthcare.
