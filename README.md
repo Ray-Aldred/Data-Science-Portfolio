@@ -12,7 +12,11 @@ I hope that my Data Science Portfolio will not only demonstrate my technical ski
 
 This notebook demonstrates an end-to-end process for forecasting Cardano (ADA) cryptocurrency prices using an LSTM model. It begins by importing the necessary libraries, retrieving historical ADA-USD price data, and visualizing the closing price history. The data is then preprocessed and divided into training and testing sets, with 95% of the data used for training. The LSTM model, built using Keras, is trained on this dataset and evaluated using the root mean squared error (RMSE) metric. The model's predictions are visualized along with the actual price data, providing insights into its performance. Finally, the notebook extends the model to predict the closing prices for today and the next 30 days, displaying the results in a clear and concise visualization.
 
-## 2. [A Visual History of the Nobel Prize Winners](https://github.com/Ray-Aldred/A-Visual-History-of-Nobel-Prize-Winners/blob/main/A-Visual-History-of-Nobel-Prize-Winners_notebook.ipynb)
+## 2. [Jordan Peterson Sentiment Analysis on his Tweets](https://github.com/Ray-Aldred/Data-Science-Projects/blob/main/Jordan%20Peterson%20Sentiment%C2%A0Analysis/Jordan_Peterson_Sentiment_Analysis.ipynb)
+
+This notebook provides a detailed analysis of sentiments in a dataset containing Jordan Peterson's tweets. It begins by importing the necessary libraries and loading the data. After cleaning and preprocessing the data, including removing URLs, mentions, hashtags, and punctuation, the text is tokenized and filtered for stopwords. The code then employs the RoBERTa model from the transformers library to perform sentiment analysis on the cleaned tweets, classifying them as positive, negative, or neutral. The distribution of sentiments is visualized using pie and bar charts, revealing a significant number of negative tweets. To further investigate the sentiment trends, word clouds and bar charts of the top 20 most frequent words for positive and negative tweets are generated, providing insights into the words driving these sentiments.
+
+## 3. [A Visual History of the Nobel Prize Winners](https://github.com/Ray-Aldred/A-Visual-History-of-Nobel-Prize-Winners/blob/main/A-Visual-History-of-Nobel-Prize-Winners_notebook.ipynb)
 
 The Nobel Prize, an esteemed accolade recognized globally, serves to acknowledge the accomplishments of preeminent scholars and scientists in the fields of chemistry, literature, physics, medicine, economics, and peace. Since its inception in 1901, the award has evolved from its initial Eurocentric and male-dominated disposition to a more equitable and unbiased recognition of excellence.
 
@@ -21,12 +25,12 @@ To scrutinize the nature of this prestigious honor, one may pose several inquiri
 For this analysis, data has been procured from the Nobel Foundation's [repository](https://www.kaggle.com/datasets/nobelfoundation/nobel-laureates) on the Kaggle platform.
 
 
-## 3. [Predicting Credit Card Approvals](https://github.com/Ray-Aldred/Predicting-Credit-Card-Approvals/blob/main/Predicting-Credit-Card-Approvals_notebook.ipynb)
+## 4. [Predicting Credit Card Approvals](https://github.com/Ray-Aldred/Predicting-Credit-Card-Approvals/blob/main/Predicting-Credit-Card-Approvals_notebook.ipynb)
 
 Commercial banking institutions are inundated with a plethora of credit card applications, a substantial portion of which are ultimately rejected due to various factors, such as elevated loan balances, inadequate income levels, or an excessive number of inquiries on an individual's credit report, to name but a few. The manual analysis of these applications proves to be a laborious, error-prone, and time-consuming endeavor, with time being an invaluable commodity. Fortuitously, the advent of machine learning has enabled the automation of this process, a strategy now ubiquitously employed by contemporary commercial banks. In this project, I have undertaken the construction of an automated credit card approval predictor, harnessing the power of machine learning techniques, which thereby emulates the methodologies employed by real-world banking institutions.
 
 For this endeavor, the dataset utilized shall be the [Credit Card Approval dataset](http://archive.ics.uci.edu/ml/datasets/credit+approval), sourced from the UCI Machine Learning Repository.
 
-## 4. [Dr. Semmelweis and the Unveiling of Handwashing Significance](https://github.com/Ray-Aldred/Dr.-Semmelweis-and-the-Unveiling-of-Handwashing-Significance/blob/main/Dr.-Semmelweis-and-the-Unveiling-of-Handwashing-Significance_notebook.ipynb)
+## 5. [Dr. Semmelweis and the Unveiling of Handwashing Significance](https://github.com/Ray-Aldred/Dr.-Semmelweis-and-the-Unveiling-of-Handwashing-Significance/blob/main/Dr.-Semmelweis-and-the-Unveiling-of-Handwashing-Significance_notebook.ipynb)
 
 In 1847, the distinguished Hungarian physician, Ignaz Semmelweis, made a pivotal discovery that would revolutionize medical practices: hand hygiene. He discerned that contaminated hands posed a significant threat to patients suffering from childbed fever, and through the implementation of rigorous handwashing protocols at his hospital, he was able to safeguard the lives of numerous individuals. His pioneering work stands as a testament to the crucial role that conscientious hygiene practices play in the delivery of effective healthcare.
